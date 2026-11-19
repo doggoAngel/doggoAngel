@@ -34,7 +34,7 @@ I come from an electrical background, so I like the point where software meets h
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48" alt="GoHosting"/></td>
 <td>
-  <b>GoHosting</b> <i>(coming soon)</i>: Minecraft hosting platform I built alone and ran in production. Stripe payments, automatic LXC provisioning on Proxmox through its API.<br/>
+  <b>GoHosting</b> : Minecraft hosting platform I built alone and ran in production. Stripe payments, automatic LXC provisioning on Proxmox through its API.<br/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white"/>
 </td>
 </tr>
