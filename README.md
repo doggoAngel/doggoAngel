@@ -34,14 +34,14 @@ I come from an electrical background, so I like the point where software meets h
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48" alt="GoHosting"/></td>
 <td>
-  <b>GoHosting</b> : Minecraft hosting platform I built alone and ran in production. Stripe payments, automatic LXC provisioning on Proxmox through its API.<br/>
+  <b><a href="https://github.com/doggoAngel/gohosting-platform">GoHosting</a></b> : Minecraft hosting platform I built alone and ran in production. Stripe payments, automatic LXC provisioning on Proxmox through its API.<br/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white"/>
 </td>
 </tr>
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="CVE write-up"/></td>
 <td>
-  <b>CVE-2015-2050 write-up</b>: D-Link DAP-1320. Firmware extraction, Ghidra analysis, emulation in Docker + QEMU, command injection in the firmware update.<br/>
+  <b><a href="https://github.com/nightscry/CVE-2015-2050-DAP-1320">CVE-2015-2050 write-up</a></b>: D-Link DAP-1320. Firmware extraction, Ghidra analysis, emulation in Docker + QEMU, command injection in the firmware update.<br/>
   <img src="https://img.shields.io/badge/MIPS-firmware-a855f7"/> <img src="https://img.shields.io/badge/QEMU-FF6600?logo=qemu&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Ghidra-reverse%20engineering-B71C1C"/>
 </td>
 </tr>
